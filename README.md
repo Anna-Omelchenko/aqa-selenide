@@ -1,1 +1,2 @@
-# aqa-selenide
+# aqa-selenide homework
+[![Java CI with Gradle](https://github.com/Anna-Omelchenko/aqa-selenide/actions/workflows/gradle.yml/badge.svg)](https://github.com/Anna-Omelchenko/aqa-selenide/actions/workflows/gradle.yml)
